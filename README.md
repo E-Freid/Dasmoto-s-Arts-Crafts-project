@@ -1,4 +1,11 @@
 # Dasmoto-s-Arts-Crafts-project
 Codecademy fullstack project
 
-#Hello#
+#Hello
+
+##About this project
+This project is a codecademy project. I have created this project from scratch. I have been given only the 4 images on the site and a spec list.
+
+##languages I used:
+* html
+* css
